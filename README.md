@@ -184,4 +184,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - **Docs**: [docs.acme-sdk.dev](https://docs.acme-sdk.dev)
 - **Email**: sdk-support@acme-sdk.dev
 
-When you recieve an error, please check the [troubleshooting guide](docs/configuration.md#troubleshooting) before opening an issue.
+When you receive an error, please check the [troubleshooting guide](docs/configuration.md#troubleshooting) before opening an issue.
